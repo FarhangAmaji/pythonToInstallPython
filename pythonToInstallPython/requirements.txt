@@ -1,0 +1,10 @@
+pip
+pandas
+#pyinstaller
+
+
+
+
+
+
+
